@@ -35,7 +35,7 @@ Models compared:
 Python, Pandas, Scikit-Learn, XGBoost, Matplotlib
 
 ## Files
-- predictive_maintenance.ipynb: full analysis and modeling
+- predictive_maintenance_project_last_version.ipynb: full analysis and modeling
 - predictive_maintenance_v3.csv: dataset
 
 ## How to Run
